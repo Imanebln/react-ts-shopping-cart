@@ -1,0 +1,69 @@
+[
+    {
+      "id": 1,
+      "name": "Barbell",
+      "price": 445,
+      "imgUrl": "/images/barbell.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Dumbbells",
+      "price": 80,
+      "imgUrl": "/images/dumbbells.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Kettlebells",
+      "price": 168,
+      "imgUrl": "/images/kettlebells.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Gym plates",
+      "price": 59.99,
+      "imgUrl": "/images/gym-plates.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Medicine Balls",
+      "price": 75,
+      "imgUrl": "/images/medicine-balls.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Punching Bag",
+      "price": 212.99,
+      "imgUrl": "/images/punching-Bag-2.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Treadmills",
+      "price": 2999,
+      "imgUrl": "/images/treadmills.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Ropes",
+      "price": 40.65,
+      "imgUrl": "/images/ropes.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Jump Ropes",
+      "price": 25.99,
+      "imgUrl": "/images/jump-ropes.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Yoga Mats",
+      "price": 39.99,
+      "imgUrl": "/images/yoga-mats.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Ellipticals",
+      "price": 2799,
+      "imgUrl": "/images/ellipticals.jpg"
+    }
+  ]
+  
