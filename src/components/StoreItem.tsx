@@ -4,6 +4,7 @@ import { formatCurrency } from '../utilities/formatCurrency';
 import DeleteIcon from '@mui/icons-material/Delete';
 import AddIcon from '@mui/icons-material/Add';
 import RemoveIcon from '@mui/icons-material/Remove';
+import { Link } from 'react-router-dom';
 // import {LazyLoadImage} from "react-lazy-load-image-component";
 
 type StoreItemProps = {
@@ -20,12 +21,14 @@ export function StoreItem({id, name, price, imgUrl} : StoreItemProps){
 
     return (
         <Card className='h-100'>
+            <Link to="/product" state={id}  style={{textDecoration: 'none', color:'black'}}>
             <Card.Img
             variant="top" 
             src={imgUrl} 
-            height="300px"
+            height="250px"
             style={{objectFit: "cover"}} 
             />
+            </Link>
             <Card.Body className='d-flex flex-column' >
                 <Card.Title className='d-flex justify-content-between
                 align-items-baseline mb-4'>
