@@ -15,6 +15,7 @@
     "@mui/material": "^5.11.8",
     "blurhash": "^2.0.4",
     "bootstrap": "^5.2.3",
+    "particles-bg": "^2.5.5",
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.0",
     "react-dom": "^18.2.0",

@@ -1,91 +1,134 @@
 [
-    {
-      "id": 1,
-      "name": "Barbell",
-      "price": 445,
-      "imgUrl": "/images/barbell.jpg",
-      "images": ["/images/barbell.jpg","/images/barbell2.jpg","/images/barbell3.jpg"],
-      "description": "a long bar with weights on each end, used for weightlifting exercises such as squats, deadlifts, and bench presses. Gym plates can be added or removed from the bar to adjust the weight being lifted. Barbells come in various lengths and weights, with standard and Olympic sizes being the most common"
-    },
-    {
-      "id": 2,
-      "name": "Dumbbells",
-      "price": 80,
-      "imgUrl": "/images/dumbbells.jpg",
-      "images": ["/images/dumbbells.jpg","/images/dumbbells2.jpg","/images/dumbbells3.jpg"],
-      "description": "handheld weights for strength training exercises such as bicep curls and shoulder presses"
-    },
-    {
-      "id": 3,
-      "name": "Kettlebells",
-      "price": 168,
-      "imgUrl": "/images/kettlebells.jpg",
-      "images": ["/images/kettlebells.jpg","/images/kettlebells2.jpg","/images/kettlebells3.jpg","/images/kettlebells4.jpg"],
-      "description": "cast iron weights with a handle that can be used for a variety of strength and cardio exercises"
-    },
-    {
-      "id": 4,
-      "name": "Gym plates",
-      "price": 59.99,
-      "imgUrl": "/images/gym-plates.jpg",
-      "images": ["/images/gym-plates.jpg","/images/gym-plates2.jpg","/images/gym-plates3.jpg"],
-      "description": "round weights used for strength training exercises, typically with a hole in the center to fit on a barbell. They come in various weights and are used to increase the resistance of weightlifting exercises, such as squats and deadlifts."
-    },
-    {
-      "id": 5,
-      "name": "Medicine Balls",
-      "price": 75,
-      "imgUrl": "/images/medicine-balls.jpg",
-      "images": ["/images/medicine-balls.jpg","/images/medicine-balls2.jpg"],
-      "description": "weighted balls used for functional strength and cardio exercises."
-    },
-    {
-      "id": 6,
-      "name": "Punching Bag",
-      "price": 212.99,
-      "imgUrl": "/images/punching-bag-4.jpg",
-      "images": ["/images/punching-Bag.jpg","/images/punching-Bag-3.jpg","/images/punching-bag-4.jpg"],
-      "description": "a heavy bag used for boxing and martial arts training, hanging from the ceiling or a stand."
-    },
-    {
-      "id": 7,
-      "name": "Treadmills",
-      "price": 2999,
-      "imgUrl": "/images/treadmills.jpg",
-      "images": ["/images/treadmills.jpg","/images/treadmills2.jpg","/images/treadmills3.jpg"],
-      "description": "motorized running machines used for cardio exercise."
-    },
-    {
-      "id": 8,
-      "name": "Ropes",
-      "price": 40.65,
-      "imgUrl": "/images/ropes.jpg",
-      "images": ["/images/ropes.jpg","/images/ropes2.jpg","/images/ropes3.jpg","/images/ropes4.jpg"],
-      "description": "thick ropes used for various exercises, such as battle ropes for full-body strength and cardio training, and jump ropes for cardiovascular exercise."
-    },
-    {
-      "id": 9,
-      "name": "Jump Ropes",
-      "price": 25.99,
-      "imgUrl": "/images/jump-ropes.jpg",
-      "images": ["/images/jump-ropes.jpg","/images/jump-ropes2.jpg","/images/jump-ropes3.jpg","/images/jump-ropes4.jpg"],
-      "description": "handheld ropes used for jumping rope, a cardiovascular exercise."
-    },
-    {
-      "id": 10,
-      "name": "Yoga Mats",
-      "price": 39.99,
-      "imgUrl": "/images/yoga-mats.jpg",
-      "images": ["/images/yoga-mats2.jpg","/images/yoga-mats3.jpg","/images/yoga-mats4.jpg"],
-      "description": "thin mats used for cushioning during yoga and other floor exercises."
-    },
-    {
-      "id": 11,
-      "name": "Ellipticals",
-      "price": 2799,
-      "imgUrl": "/images/ellipticals.jpg",
-      "images": ["/images/ellipticals.jpg","/images/ellipticals2.jpg","/images/ellipticals3.jpg","/images/ellipticals4.jpg"],
-      "description": "stationary machines used for low-impact cardio workouts"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "Barbell",
+    "price": 445,
+    "imgUrl": "/images/barbell.jpg",
+    "images": [
+      "/images/barbell.jpg",
+      "/images/barbell2.jpg",
+      "/images/barbell3.jpg"
+    ],
+    "description": "a long bar with weights on each end, used for weightlifting exercises such as squats, deadlifts, and bench presses. Gym plates can be added or removed from the bar to adjust the weight being lifted. Barbells come in various lengths and weights, with standard and Olympic sizes being the most common"
+  },
+  {
+    "id": 2,
+    "name": "Dumbbells",
+    "price": 80,
+    "imgUrl": "/images/dumbbells.jpg",
+    "images": [
+      "/images/dumbbells.jpg",
+      "/images/dumbbells2.jpg",
+      "/images/dumbbells3.jpg"
+    ],
+    "description": "handheld weights for strength training exercises such as bicep curls and shoulder presses"
+  },
+  {
+    "id": 3,
+    "name": "Kettlebells",
+    "price": 168,
+    "imgUrl": "/images/kettlebells.jpg",
+    "images": [
+      "/images/kettlebells.jpg",
+      "/images/kettlebells2.jpg",
+      "/images/kettlebells3.jpg",
+      "/images/kettlebells4.jpg"
+    ],
+    "description": "cast iron weights with a handle that can be used for a variety of strength and cardio exercises"
+  },
+  {
+    "id": 4,
+    "name": "Gym plates",
+    "price": 59.99,
+    "imgUrl": "/images/gym-plates.jpg",
+    "images": [
+      "/images/gym-plates.jpg",
+      "/images/gym-plates2.jpg",
+      "/images/gym-plates3.jpg"
+    ],
+    "description": "round weights used for strength training exercises, typically with a hole in the center to fit on a barbell. They come in various weights and are used to increase the resistance of weightlifting exercises, such as squats and deadlifts."
+  },
+  {
+    "id": 5,
+    "name": "Medicine Balls",
+    "price": 75,
+    "imgUrl": "/images/medicine-balls.jpg",
+    "images": ["/images/medicine-balls.jpg", "/images/medicine-balls2.jpg"],
+    "description": "weighted balls used for functional strength and cardio exercises."
+  },
+  {
+    "id": 6,
+    "name": "Punching Bag",
+    "price": 212.99,
+    "imgUrl": "/images/punching-bag-4.jpg",
+    "images": [
+      "/images/punching-Bag.jpg",
+      "/images/punching-Bag-3.jpg",
+      "/images/punching-bag-4.jpg"
+    ],
+    "description": "a heavy bag used for boxing and martial arts training, hanging from the ceiling or a stand."
+  },
+  {
+    "id": 7,
+    "name": "Treadmills",
+    "price": 2999,
+    "imgUrl": "/images/treadmills.jpg",
+    "images": [
+      "/images/treadmills.jpg",
+      "/images/treadmills2.jpg",
+      "/images/treadmills3.jpg"
+    ],
+    "description": "motorized running machines used for cardio exercise."
+  },
+  {
+    "id": 8,
+    "name": "Ropes",
+    "price": 40.65,
+    "imgUrl": "/images/ropes.jpg",
+    "images": [
+      "/images/ropes.jpg",
+      "/images/ropes2.jpg",
+      "/images/ropes3.jpg",
+      "/images/ropes4.jpg"
+    ],
+    "description": "thick ropes used for various exercises, such as battle ropes for full-body strength and cardio training, and jump ropes for cardiovascular exercise."
+  },
+  {
+    "id": 9,
+    "name": "Jump-Ropes",
+    "price": 25.99,
+    "imgUrl": "/images/jump-ropes.jpg",
+    "images": [
+      "/images/jump-ropes.jpg",
+      "/images/jump-ropes2.jpg",
+      "/images/jump-ropes3.jpg",
+      "/images/jump-ropes4.jpg"
+    ],
+    "description": "handheld ropes used for jumping rope, a cardiovascular exercise."
+  },
+  {
+    "id": 10,
+    "name": "Yoga Mats",
+    "price": 39.99,
+    "imgUrl": "/images/yoga-mats.jpg",
+    "images": [
+      "/images/yoga-mats2.jpg",
+      "/images/yoga-mats3.jpg",
+      "/images/yoga-mats4.jpg"
+    ],
+    "description": "thin mats used for cushioning during yoga and other floor exercises."
+  },
+  {
+    "id": 11,
+    "name": "Ellipticals",
+    "price": 2799,
+    "imgUrl": "/images/ellipticals.jpg",
+    "images": [
+      "/images/ellipticals.jpg",
+      "/images/ellipticals2.jpg",
+      "/images/ellipticals3.jpg",
+      "/images/ellipticals4.jpg"
+    ],
+    "description": "stationary machines used for low-impact cardio workouts"
+  }
+]
