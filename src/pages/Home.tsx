@@ -11,7 +11,7 @@ export function Home() {
 
   return (
     <>
-      <ParticlesBg type="circle" bg={true} />
+      {/* <ParticlesBg type="circle" bg={true} /> */}
       <Container className="d-flex justify-content-center align-items-center flex-direction-column">
         <h1
           style={{
